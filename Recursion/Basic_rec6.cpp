@@ -1,4 +1,4 @@
-// Program to print the sum of 1-N nos using Recursion.
+// Program to print the sum of 1-N nos using Parameterized Recursion.
 #include <iostream>
 using namespace std;
 
